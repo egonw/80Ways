@@ -53,7 +53,7 @@
 "waag@waag.social",
 "tudelft3d@social.edu.nl"
 ],
-  "theme": "auto"
+  "theme": "auto",
   "loadFederated": false,
   "loadPublic": false,
   "loadTrends": false,
