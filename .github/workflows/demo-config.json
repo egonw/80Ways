@@ -53,5 +53,21 @@
 "waag@waag.social",
 "tudelft3d@social.edu.nl"
 ],
-    "theme": "auto"
+  "theme": "auto"
+  "loadFederated": false,
+  "loadPublic": false,
+  "loadTrends": false,
+  "languages": [],
+  "badWords": [],
+  "hideSensitive": true,
+  "hideBoosts": true,
+  "hideReplies": true,
+  "limit": 50,
+  "interval": 10,
+  "title": "SURF's 80",
+  "theme": "auto",
+  "showInfobar": true,
+  "showText": true,
+  "showMedia": true,
+  "playVideos": false
 }
