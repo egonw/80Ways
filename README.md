@@ -1,4 +1,8 @@
-# Fediwall
+# SURF 80 Ways Fediwall
+
+This is a fork for mastodon accounts for the Dutch research community, base on this [80 Ways](https://communities.surf.nl/publieke-waarden/artikel/80-ways-to-follow-research-science-and-education-on-mastodon)
+by [Wladimir Mufty](https://social.edu.nl/@wlaatje).
+Below is the original README:
 
 Fediwall is a *media wall* application made for [Mastodon](https://joinmastodon.org/). Follow hashtags or accounts and show the most recent posts in a self-updating, screen filling and visually pleasing masonry grid layout. Put it on a large screen and showcase community feedback or social media reactions while hosting your next big event, or use it to look at cat pictures all day. Your choice.
 
